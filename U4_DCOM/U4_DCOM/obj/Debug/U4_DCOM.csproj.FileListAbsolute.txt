@@ -1,0 +1,7 @@
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.csproj.AssemblyReference.cache
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.csproj.CoreCompileInputs.cache
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.exe.config
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.exe
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\bin\Debug\U4_DCOM.pdb
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.exe
+C:\Users\EquipoAsus\source\repos\U4_DCOM\U4_DCOM\obj\Debug\U4_DCOM.pdb

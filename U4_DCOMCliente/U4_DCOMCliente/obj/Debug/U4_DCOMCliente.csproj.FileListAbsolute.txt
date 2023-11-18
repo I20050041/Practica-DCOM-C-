@@ -1,0 +1,11 @@
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\bin\Debug\U4_DCOMCliente.exe.config
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\bin\Debug\U4_DCOMCliente.exe
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\bin\Debug\U4_DCOMCliente.pdb
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\bin\Debug\U4_DCOM.exe
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\bin\Debug\U4_DCOM.pdb
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\bin\Debug\U4_DCOM.exe.config
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\obj\Debug\U4_DCOMCliente.csproj.AssemblyReference.cache
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\obj\Debug\U4_DCOMCliente.csproj.CoreCompileInputs.cache
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\obj\Debug\U4_DCOMCliente.csproj.CopyComplete
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\obj\Debug\U4_DCOMCliente.exe
+C:\Users\EquipoAsus\source\repos\U4_DCOMCliente\U4_DCOMCliente\obj\Debug\U4_DCOMCliente.pdb
